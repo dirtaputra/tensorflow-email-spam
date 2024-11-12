@@ -17,7 +17,7 @@ This project is a simple spam email classification model using a neural network 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/spam-email-classification.git
+   git clone https://github.com/dirtaputra/tensorflow-email-spam.git
    cd spam-email-classification
    ```
 
